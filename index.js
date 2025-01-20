@@ -1,1 +1,3 @@
-console.log("Hello World")
+let messgage = "Hello World";
+
+console.log(messgage)
